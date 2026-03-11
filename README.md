@@ -1,4 +1,2 @@
 # sae01-02
-pauuuul
-paul fait sport et science
-jfais le reste
+petit projet lié à l'IA
